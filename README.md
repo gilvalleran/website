@@ -2,6 +2,8 @@
 
 This is the reame file for this project
 
-# More updates from Tortoise Git
+# Some changes on master
 
-Updates on the feature branch
+There is some changes on the master branch using the Windows
+file explorer to manage Git repositories.
+
